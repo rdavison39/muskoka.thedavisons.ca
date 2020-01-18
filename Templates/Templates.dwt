@@ -29,36 +29,19 @@
       <!-- Mobile version of logo -->
       <div class="logo logo-small"> <a href="index.html">LUXURY <br />
         <strong>MUSKOKA RETREAT.</strong></a> </div>
-      <!-- TemplateBeginEditable name="Navigation" -->
       <div class="top-nav">
         <div class="s-12 l-5">
           <ul class="right top-ul chevron">
             <li><a href="index.html">Home</a></li>
-            <li><a href="product.html">Rates</a></li>
-            <li><a href="services.html">Booking</a></li>
+            <li><a href="rates.html">Rates</a></li>
+            <li><a href="booking.html">Booking</a></li>
+			<li><a href="contactUs.html">Contact Us</a></li>
+			<li><a href="index-orig.html">Index Orig</a></li>
           </ul>
         </div>
-        <div class="s-12 l-5">
-          <ul class="top-ul chevron">
-            <li><a href="gallery.html">Gallery</a></li>
-            <li> <a>Contact Us</a>
-              <ul>
-                <li><a>Company 1</a></li>
-                <li><a>Company 2</a></li>
-                <li> <a>Company 3</a>
-                  <ul>
-                    <li><a>Company 3-1</a></li>
-                    <li><a>Company 3-2</a></li>
-                    <li><a>Company 3-3</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-        </div>
+        
       </div>
-      <!-- TemplateEndEditable --></div>
+    </div>
   </nav>
 </header>
 <!-- TemplateBeginEditable name="EditRegion3" -->
@@ -191,7 +174,7 @@
       <p>Copyright 2020 - Hammel Bay Homes Ltd. </p>
     </div>
     <div class="s-12 l-6">
-      <p class="right"> <a class="right" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding by Hammel Bay Homes Ltd</a> </p>
+      <p class="right"> <a class="right" href="http://www.hbhomes.com" title="Hammel Bay Home Webworks design">Design and coding by Hammel Bay Homes Ltd</a> </p>
     </div>
   </div>
 </footer>
