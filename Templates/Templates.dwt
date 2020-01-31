@@ -24,35 +24,28 @@
 <body class="size-1140">
 <!-- TOP NAV WITH LOGO -->
 <header>
-         <nav>
-            <div class="line">
-               <!-- Mobile version of logo -->
-               <div class="logo logo-small">
-                 <a href="index.html">DESIGN <br /><strong>THEME.</strong></a>
-               </div>  
-               
-               <div class="top-nav">              
-
-                  <div class="s-12 l-5">
-                     <ul class="right top-ul chevron">
-                        <li><a href="index.html">Home</a>
-                        </li>
-                        <li><a href="product.html">Product</a>
-                        </li>
-                        <li><a href="services.html">Services</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <ul class="s-12 l-2">
+  <nav>
+    <div class="line"> 
+      <!-- Mobile version of logo -->
+      <div class="logo logo-small"> <a href="index.html">DESIGN <br />
+        <strong>THEME.</strong></a> </div>
+      <div class="top-nav">
+        <div class="s-12 l-5">
+          <ul class="right top-ul chevron">
+            <li><a href="index.html">Home</a> </li>
+            <li><a href="description.html">Description</a> </li>
+          </ul>
+        </div>
+        <!--ul class="s-12 l-2">
                      <li class="logo hide-s hide-m">
                         <a href="index.html">DESIGN <br /><strong>THEME</strong></a>
                      </li>
-                  </ul>
-                  <div class="s-12 l-5">
-                     <ul class="top-ul chevron">
-                        <li><a href="gallery.html">Gallery</a>
-                        </li>
-                        <li>
+                  </ul-->
+        <div class="s-12 l-5">
+          <ul class="top-ul chevron">
+            <li><a href="gallery.html">Gallery</a> </li>
+            <li><a href="description.html">Features</a> </li>
+              <!--li>
                            <a>Company</a>			    
                            <ul>
                               <li><a>Company 1</a>
@@ -71,17 +64,16 @@
                                  </ul>
                               </li>
                            </ul>
-                        </li>
-                        <li><a href="contact.html">Contact</a>
-                        </li>
-                     </ul> 
-                  </div>
-               </div>
-            </div>
-         </nav>
-      </header>
+                        </li-->
+            <li><a href="contactUs.html">Contact Us</a> </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
 <!-- TemplateBeginEditable name="EditRegion3" -->
-<section>
+<section> 
   <!-- CAROUSEL -->
   <div id="carousel">
     <div id="header-carousel" class="owl-carousel owl-theme">
@@ -130,10 +122,8 @@
       <p class="subtitile">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
       <div class="margin">
         <div class="s-12 m-6 l-3 margin-bottom"> <i class="icon-sli-people icon2x"></i>
-          <h3>About1-done at VIZIYA1</h3>
+          <h3>About</h3>
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-          <h3>About1</h3>
-          <p>This text changed at homet.</p>
         </div>
         <div class="s-12 m-6 l-3 margin-bottom"> <i class="icon-sli-shield icon2x"></i>
           <h3>Company</h3>
@@ -158,13 +148,13 @@
           <article class="s-12 l-8 center">
             <h1>Amazing title</h1>
             <p class="margin-bottom">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </p>
-            <a class="button rounded-btn submit-btn s-12 l-4 center" href="product.html">Read more</a></article>
+            <a class="button rounded-btn submit-btn s-12 l-4 center" href="product.html">Read more</a> </article>
         </div>
       </div>
     </div>
   </div>
-  <!-- GALLERY -->
-  <div id="third-block">
+  <!-- GALLERY --> 
+  <!--div id="third-block">
     <div class="line">
       <h2>Responsive gallery</h2>
       <p class="subtitile">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
@@ -183,8 +173,8 @@
         </div>
       </div>
     </div>
-  </div>
-  <div id="fourth-block">
+  </div--> 
+  <!--div id="fourth-block">
     <div class="line">
       <div id="news-carousel" class="owl-carousel owl-theme">
         <div class="item">
@@ -201,7 +191,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div--> 
 </section>
 <!-- TemplateEndEditable --><!-- FOOTER -->
 <footer>
